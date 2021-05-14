@@ -1,5 +1,5 @@
-# hello-word
 
+# hello-word
 ## Project setup
 ```
 npm install
@@ -19,6 +19,12 @@ npm run build
 ```
 npm run lint
 ```
+### 一个简单的Vue2.x 框架的模板，集成axios 二次封装、全局组件、自定义指令的自动化加载、svg矢量图自动化加载、ant-design-vue在线主题切换、mock数据、模块化router/store
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 全局组件
+  + Screenfull
+  + SvgIcon
+### 自定义指令
+  + v-permission-disabled  
+  + v-permission-show
+  + v-prevent-re-click
